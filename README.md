@@ -16,7 +16,7 @@ The project explores the relationship between **urban mobility** and **economic 
 
 Click the badge below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pFFS5fZTYvkK28QSKWneHmtCMNTqaqrV?usp=sharing)
 
 Or:
 
